@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+    
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">The controversial ideas of this framed personality theorist and therapist have influenced humanity self-understanding.</string>
+    <string name="question_2">A branch of psychology that assits people with problems in living (school,work,or marriage) and in achieving greater well-being.</string>
+    <string name="question_3">Also known as pure light and are made up of waves of all one color</string>
+    <string name="question_4">What was the study done under John Watson\'s watch that had to do with fear?</string>
+    <string name="question_5">How behavior and thinking vary across situations and cultures.</string>
+    <string name="question_6">Darwin argued that natural selection shapes behaviors as well as bodies.</string>
+    <string name="question_7">What main goal of psychology involves changing a behavior from an undesirable one to a desirable one?</string>
+    <string name="question_8">A condition resulting from surgery that isolates the brains two hemispheres by cutting the fibers connecting them.</string>
+    <string name="question_9">Observing and recording behavior in naturally occurring situations without trying to manipulate and control the situation.</string>
+    <string name="question_10">A specialized cell transmitting nerve impulses; a nerve cell.</string>
+    <string name="question_11">An early school of psychology that used introspection to explore the structural elements of the human mind.</string>
+    <string name="question_12">Each of the paired lobes of the brain lying immediately behind the forehead, including areas concerned with behavior, learning, personality, and voluntary movement.</string>
+    <string name="question_13">Historically significant perspective that emphasized the growth potential of healthy people and the individuals potential for personal growth.</string>
+
+</resources>
